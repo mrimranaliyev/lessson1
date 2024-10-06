@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="14b76d45-0d90-4fca-a1ef-c89de57d93dd" name="Changes" comment="" />
+    <list default="true" id="14b76d45-0d90-4fca-a1ef-c89de57d93dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lesson1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson1/lesson1..iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson1/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
